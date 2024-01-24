@@ -1,0 +1,145 @@
+@font-face {
+    font-family: "TT Lakes";
+    src: url(../style/TTLakes/TTLakes-Bold.ttf);
+}
+
+@font-face {
+    font-family: "TT Lakes Light";
+    src: url(../style/TTLakes/TTLakes-Light.ttf);
+}
+
+@font-face {
+    font-family: "TT Lakes Medium";
+    src: url(../style/TTLakes/TTLakes-Medium.ttf);
+}
+
+* {
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+/* шапка сайта */
+.header {
+    margin-top: 42px;
+}
+
+.header__wrapper-left {
+    display: flex;
+    align-items: center;
+}
+
+.header__title {
+    font-family: "TT Lakes", serif;
+    font-size: 28px;
+    margin-left: 30px;
+}
+
+.header__highlight {
+    display: block;
+    width: 3px;
+    height: 40px;
+    background-color: rgba(65, 246, 215, 1);
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__wrapper-right {
+    display: flex;
+}
+
+.header__menu {
+    display: flex;
+    align-items: center;
+    color: #000 !important;
+}
+
+.margin-left {
+    margin-left: 32px;
+}
+
+.header__img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    margin-left: 9px;
+    background-color: rgba(255, 62, 121, 1);
+    border-radius: 50%;
+}
+
+.header__menu-text {
+    font-family: "TT Lakes", serif;
+    font-size: 16px;
+}
+
+/*навигационное меню */
+.nav {
+    margin-left: 16px;
+}
+
+.nav__list {
+    display: flex;
+    margin: 0;
+    gap: 16px;
+    cursor: pointer;
+}
+
+.nav__reviews {
+    width: 71px;
+    margin-top: 22px;
+    cursor: pointer;
+}
+
+.nav__item {
+    font-family: "TT Lakes Light", serif;
+    font-size: 16px;
+    color: #7E7E82;
+    border: 1px transparent solid;
+    padding: 8px 9px 8px 16px;
+}
+
+.nav__item:hover {
+    border-radius: 10%;
+    border: 1px solid #B8FFEC;
+    background-color: #FFF;
+}
+
+.main__content {
+    margin-top: 20px;
+}
+.main__description {
+    display: flex;
+    gap: 118px;
+}
+
+.main__description-text {
+    width: 490px;
+    color: #1B1C21;
+    font-family: "TT Lakes", serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.main__description-more {
+    display: flex;
+    gap: 10px;
+    margin-top: 25px;
+}
+
+.main__description-btn {
+    border: none;
+    background-color: transparent;
+    font-family: "TT Lakes", serif;
+    font-size: 16px;
+    cursor: pointer;
+}
