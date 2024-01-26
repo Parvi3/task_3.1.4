@@ -49,6 +49,13 @@ button {
     justify-content: center;
     gap: 40px;
 }
+
+.header__button {
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 62, 121, 1);
+    border-radius: 50%;
+}
 .header__wrapper-item {
     display: flex;
     gap: 16px;
@@ -66,7 +73,8 @@ button {
 }
 
 .nav {
-    margin-top: 42px;
+    margin-top: 20px;
+    padding-top: 20px;
 }
 .nav__title {
     font-family: "TT Lakes", serif;
@@ -119,6 +127,9 @@ button {
 .main__wrapper-text1 {
     display: none;
 }
+.main__wrapper-text2 {
+    display: none;
+}
 
 .main__wrapper-expand {
     display: flex;
@@ -137,6 +148,10 @@ button {
 }
 .media_768 {
     display: none;
+}
+
+.main__img {
+    width: 300px;
 }
 
 @media (min-width: 768px) {
