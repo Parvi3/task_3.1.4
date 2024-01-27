@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c217ed0-9e14-45c8-8616-409a42f7abe5" name="Changes" comment="Delete .idea directory">
-      <change afterPath="$PROJECT_DIR$/img/cps.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/burger.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/burger.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/call.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/call.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/chat.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/chat.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/check.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/cps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/profile.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/repair.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/repair.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/index.css" afterDir="false" />
     </list>
@@ -58,7 +50,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/Block-3&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/parviz/Desktop/block_1.3&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -82,7 +74,9 @@
       <workItem from="1706125240570" duration="62000" />
       <workItem from="1706125309784" duration="5385000" />
       <workItem from="1706208323359" duration="626000" />
-      <workItem from="1706209208438" duration="23235000" />
+      <workItem from="1706209208438" duration="23981000" />
+      <workItem from="1706306098169" duration="32000" />
+      <workItem from="1706306148664" duration="15283000" />
     </task>
     <servers />
   </component>
