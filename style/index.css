@@ -257,6 +257,7 @@ button {
     }
 
     .nav__list {
+        width: 1120px;
         display: flex;
         flex-wrap: wrap;
         margin-top: 15px;
